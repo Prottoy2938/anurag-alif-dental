@@ -18,7 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+=======
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+>>>>>>> master
 
 <image>
 	<url>./../../../wp-content/uploads/2023/11/Logo120by120-1.jpg</url>
@@ -135,7 +139,11 @@
 <p>These include which tooth the dentist took out, as some teeth have deeper roots than others and take longer to heal. However, most people find that pain decreases after about 3 days.</p>
 <p>One of the most important aspects of aftercare is maintaining the blood clot that forms in the socket where the tooth used to be.</p>
 <p>Caring for this blood clot is key to the healing process, and it helps prevent painful complications, such as dry socket.</p>
+<<<<<<< HEAD
 <p><img decoding="async" fetchpriority="high" class="alignnone wp-image-955 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/02/timeline-640x427.jpg" alt="" width="2500" height="1667" /></p>
+=======
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-955 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/02/timeline-640x427.jpg" alt="" width="2500" height="1667" /></p>
+>>>>>>> master
 <h4>Days 1–2</h4>
 <p>Much of the aftercare in the first couple of days following an extraction focuses on allowing a blood clot to form and caring for the mouth in general.</p>
 <p>As some experts note, low level bleeding for up to 24 hours after an extraction is perfectly normal. However, active bleeding after this point requires treatment.</p>

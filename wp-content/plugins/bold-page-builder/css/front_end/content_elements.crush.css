@@ -48090,6 +48090,20 @@ button.slick-arrow:focus {
     border-radius: var(--post-pf-border-radius);
     overflow: hidden;
     }
+<<<<<<< HEAD
+=======
+.bt_bb_css_post_grid .bt_bb_css_post_grid_button_holder {
+    text-align: center;
+    padding-top: 1em;
+    display: none;
+    }
+.bt_bb_css_post_grid.bt_bb_auto_loading_load_more_loading.bt_bb_grid_first_load_passed .bt_bb_css_post_grid_button_holder {
+    display: block;
+    }
+.bt_bb_css_post_grid.bt_bb_grid_loading.bt_bb_auto_loading_load_more_loading.bt_bb_grid_first_load_passed .bt_bb_css_post_grid_button_holder {
+    display: none;
+    }
+>>>>>>> master
 .bt_bb_css_post_grid.bt_bb_columns_1 .bt_bb_css_post_grid_content {
     grid-template-columns: 1fr;
     }
@@ -48154,16 +48168,40 @@ button.slick-arrow:focus {
     grid-gap: -moz-calc(var(--post-pf-grid-gap-small) * 2);
     grid-gap: calc(var(--post-pf-grid-gap-small) * 2);
     }
+<<<<<<< HEAD
+=======
+.bt_bb_css_post_grid.bt_bb_gap_small .bt_bb_css_post_grid_button_holder {
+    padding-top: -webkit-calc(var(--post-pf-grid-gap-small) * 2);
+    padding-top: -moz-calc(var(--post-pf-grid-gap-small) * 2);
+    padding-top: calc(var(--post-pf-grid-gap-small) * 2);
+    }
+>>>>>>> master
 .bt_bb_css_post_grid.bt_bb_gap_normal .bt_bb_css_post_grid_content {
     grid-gap: -webkit-calc(var(--post-pf-grid-gap-normal) * 2);
     grid-gap: -moz-calc(var(--post-pf-grid-gap-normal) * 2);
     grid-gap: calc(var(--post-pf-grid-gap-normal) * 2);
     }
+<<<<<<< HEAD
+=======
+.bt_bb_css_post_grid.bt_bb_gap_normal .bt_bb_css_post_grid_button_holder {
+    padding-top: -webkit-calc(var(--post-pf-grid-gap-normal) * 2);
+    padding-top: -moz-calc(var(--post-pf-grid-gap-normal) * 2);
+    padding-top: calc(var(--post-pf-grid-gap-normal) * 2);
+    }
+>>>>>>> master
 .bt_bb_css_post_grid.bt_bb_gap_large .bt_bb_css_post_grid_content {
     grid-gap: -webkit-calc(var(--post-pf-grid-gap-large) * 2);
     grid-gap: -moz-calc(var(--post-pf-grid-gap-large) * 2);
     grid-gap: calc(var(--post-pf-grid-gap-large) * 2);
     }
+<<<<<<< HEAD
+=======
+.bt_bb_css_post_grid.bt_bb_gap_large .bt_bb_css_post_grid_button_holder {
+    padding-top: -webkit-calc(var(--post-pf-grid-gap-large) * 2);
+    padding-top: -moz-calc(var(--post-pf-grid-gap-large) * 2);
+    padding-top: calc(var(--post-pf-grid-gap-large) * 2);
+    }
+>>>>>>> master
 
 /* Responsive */
 .bt_bb_css_post_grid .bt_bb_grid_item.bt_bb_tile_format_21 {

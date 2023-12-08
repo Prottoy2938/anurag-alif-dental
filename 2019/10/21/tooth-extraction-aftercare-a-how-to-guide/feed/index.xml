@@ -16,7 +16,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+=======
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+>>>>>>> master
 	<item>
 		<title>
 		By: Erik Chan		</title>

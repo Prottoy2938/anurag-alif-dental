@@ -140,6 +140,13 @@ form.submitting .wpcf7-spinner {
 	}
 }
 
+<<<<<<< HEAD
+=======
+.wpcf7 [inert] {
+	opacity: 0.5;
+}
+
+>>>>>>> master
 .wpcf7 input[type="file"] {
 	cursor: pointer;
 }

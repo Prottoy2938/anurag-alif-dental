@@ -18,7 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+=======
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+>>>>>>> master
 
 <image>
 	<url>./../../../wp-content/uploads/2023/11/Logo120by120-1.jpg</url>
@@ -101,7 +105,11 @@
 <p>A surgical extraction is more complicated and involves the removal of gum tissue, bone, or both. The surgeon may need to remove the tooth in pieces.</p>
 <p>Wisdom teeth are the last to erupt and usually the first to require extraction because in many people, they are impacted. This means that they have not fully emerged from the gums.</p>
 <p>Wisdom teeth extraction is a common procedure in oral surgery.</p>
+<<<<<<< HEAD
 <p><img decoding="async" fetchpriority="high" class="alignnone wp-image-1089 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/02/single-service-2-640x427.jpg" alt="" width="2500" height="1667" /></p>
+=======
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-1089 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/02/single-service-2-640x427.jpg" alt="" width="2500" height="1667" /></p>
+>>>>>>> master
 <h3>Preparation</h3>
 <p>A person will have a consultation with their dentist or oral surgeon prior to the extraction.</p>
 <p>During the consultation, the doctor will ask for a thorough medical history. They will also ask about any medications that the person is taking.</p>
@@ -326,7 +334,11 @@
 <li><strong>Elevate the head:</strong> When sleeping, use extra pillows to elevate the head. Lying too flat may allow blood to pool in the head and prolong healing time.</li>
 <li><strong>Take any medications that the dentist recommends:</strong> The dental surgeon may order prescription medications for complex removals. It is important to complete the full course of treatment.</li>
 </ul>
+<<<<<<< HEAD
 <p><img decoding="async" loading="lazy" class="alignnone wp-image-522 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/01/featured_image_shop-640x367.jpg" alt="" width="2500" height="1667" /></p>
+=======
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-522 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/01/featured_image_shop-640x367.jpg" alt="" width="2500" height="1667" /></p>
+>>>>>>> master
 <h4>Days 3–10</h4>
 <p>After the clot has formed, it is vital to keep it securely in place and to follow some extra steps for oral hygiene to help prevent other issues.</p>
 <p>Tips for aftercare between the third and 10th day include:</p>

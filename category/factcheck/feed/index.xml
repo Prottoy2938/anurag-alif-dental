@@ -18,7 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+=======
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+>>>>>>> master
 
 <image>
 	<url>./../../../wp-content/uploads/2023/11/Logo120by120-1.jpg</url>
@@ -101,7 +105,11 @@
 <p>A surgical extraction is more complicated and involves the removal of gum tissue, bone, or both. The surgeon may need to remove the tooth in pieces.</p>
 <p>Wisdom teeth are the last to erupt and usually the first to require extraction because in many people, they are impacted. This means that they have not fully emerged from the gums.</p>
 <p>Wisdom teeth extraction is a common procedure in oral surgery.</p>
+<<<<<<< HEAD
 <p><img decoding="async" fetchpriority="high" class="alignnone wp-image-1089 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/02/single-service-2-640x427.jpg" alt="" width="2500" height="1667" /></p>
+=======
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-1089 size-medium" src="http://denticare.bold-themes.com/allen/wp-content/uploads/sites/16/2020/02/single-service-2-640x427.jpg" alt="" width="2500" height="1667" /></p>
+>>>>>>> master
 <h3>Preparation</h3>
 <p>A person will have a consultation with their dentist or oral surgeon prior to the extraction.</p>
 <p>During the consultation, the doctor will ask for a thorough medical history. They will also ask about any medications that the person is taking.</p>

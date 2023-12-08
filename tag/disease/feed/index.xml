@@ -18,7 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+=======
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+>>>>>>> master
 
 <image>
 	<url>./../../../wp-content/uploads/2023/11/Logo120by120-1.jpg</url>
